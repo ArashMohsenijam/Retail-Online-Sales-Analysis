@@ -10,5 +10,5 @@ Per the UCI Machine Learning Repository, this data was made available by Dr Daqi
 
 Image from stocksnap.io.
 
-##Inspiration
+## Inspiration
 Analyses for this dataset could include time series, clustering, classification and mor
